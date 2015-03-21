@@ -203,6 +203,11 @@ background-color:#ccc
   overflow: hidden;
   clear: both;
 }
+.image{
+    width:100px;
+    height:100px;
+    border:2px solid;
+}
 
 
 
