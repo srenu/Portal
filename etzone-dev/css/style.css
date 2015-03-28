@@ -1,3 +1,5 @@
+
+
 .main-header{
 	background:url(../img/header.jpg) repeat;
 	background-position: center top;
@@ -51,9 +53,16 @@ div{
 .etzone-menu,.ez-ql{
   background-position: center top;
   width: 992px;
-  margin: 0 auto;
+  margin: 0px 0px 0px 235px;
   font: 34px Roboto,Arial,Arial;
 }
+.content{
+  background-position: center top;
+  width: 792px;
+  margin: 20px 0px 0px 254px;
+  font: 34px Roboto,Arial,Arial;
+}
+
 .menulevelul{
   width: 992px;
   max-width: 992px;
@@ -202,11 +211,6 @@ background-color:#ccc
   background-size: 100% 100%;
   overflow: hidden;
   clear: both;
-}
-.image{
-    width:100px;
-    height:100px;
-    border:2px solid;
 }
 
 
